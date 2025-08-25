@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻I’m a Software Developer passionate about building scalable, efficient, and user-friendly applications.<br>My primary tech stack is MERN (MongoDB, Express.js, React.js, Node.js), but I also work with Java Core and relational databases like MySQL.<br>👨‍🚒 I’m always open to exploring new technologies that help solve real-world problems.
+🧑‍💻I’m a Software Developer passionate about building scalable, efficient, and user-friendly applications.<br>📚My primary tech stack is MERN (MongoDB, Express.js, React.js, Node.js), but I also work with Java Core and relational databases like MySQL.<br>👨‍🚒 I’m always open to exploring new technologies that help solve real-world problems.
 
 
 ## 🌐 Socials:
